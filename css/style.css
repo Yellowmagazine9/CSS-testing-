@@ -1,9 +1,12 @@
 body {
     background-color: rgb(132, 0, 255);
-    font-size: 22px;
-    
+    font-size: 22px; 
 }
 
 a {
     color: black;
+}
+
+p {
+    color: aquamarine;
 }
