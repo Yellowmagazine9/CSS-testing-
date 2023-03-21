@@ -8,5 +8,29 @@ a {
 }
 
 p {
-    color: aquamarine;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    height: auto;
+    width: 880;
+}
+
+div {
+    background-color: rgb(201, 42, 201);
+    
+}
+
+span {
+    color: blue;
+}
+
+.top-text {
+    background-color: crimson;
+    font-size: 26px;
+    
+}
+
+.bottom-text {
+    font-size: 19px;
 }
